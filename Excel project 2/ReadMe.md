@@ -9,3 +9,5 @@ The analysis aims to leverage data-driven approaches to optimize customer servic
 3. Service Response Time Analysis: Analyze response times for customer queries and support requests to assess the efficiency of the customer service team.
 4. Customer Segmentation: Segment customers based on their demographics, behavior, and preferences. Understand different customer segments' needs and pain points to tailor services and communications accordingly.
 5. Trends and Patterns Identification: Identify patterns and trends in customer service data to uncover opportunities for process improvements and innovative service offerings.
+   ![Screenshot 2024-05-06 205011](https://github.com/Gautam20024/Excel-Projects/assets/154214132/40c705a5-a040-420c-a3ab-3f1b664f4875)
+
